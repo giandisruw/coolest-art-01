@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
-"""Phoenix Rising - make.fun coolest-art-01 entry.
+"""The Gardener of Thunderclouds - make.fun coolest-art-01 entry (v2).
 
-Copies the bundled artwork (entry.png, a phoenix digital painting)
-to the output directory make.fun grades:
+Copies the bundled artwork (entry.png, a tiny gardener in a yellow
+raincoat watering a storm cloud from a ladder, so lightning blooms
+into flowers) to the output directory make.fun grades:
 $MAKEFUN_OUTPUT_DIR/entry.png (default /output/entry.png).
 
 Standard library only, deterministic, no network access.
